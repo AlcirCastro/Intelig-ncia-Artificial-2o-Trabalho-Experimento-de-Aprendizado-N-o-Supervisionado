@@ -1,1 +1,1 @@
-# Intelig-ncia-Artificial-2o-Trabalho-Experimento-de-Aprendizado-N-o-Supervisionado
+# Segundo Trabalho da Disciplina de Inteligência Artificial - UFAM
